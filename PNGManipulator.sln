@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PNGManipulator", "PNGManipulator\PNGManipulator.csproj", "{B652A9C1-E5F8-410D-8FFA-FF7A1EA622BC}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PNGManipulatorTest", "PNGManipulatorTest\PNGManipulatorTest.csproj", "{BBF68473-337E-4B41-821D-48A79AA93203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B652A9C1-E5F8-410D-8FFA-FF7A1EA622BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B652A9C1-E5F8-410D-8FFA-FF7A1EA622BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B652A9C1-E5F8-410D-8FFA-FF7A1EA622BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B652A9C1-E5F8-410D-8FFA-FF7A1EA622BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBF68473-337E-4B41-821D-48A79AA93203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBF68473-337E-4B41-821D-48A79AA93203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBF68473-337E-4B41-821D-48A79AA93203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBF68473-337E-4B41-821D-48A79AA93203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFCD5F9C-A0D8-4AA6-9E50-F06D7DC8F4BD}
+	EndGlobalSection
+EndGlobal
