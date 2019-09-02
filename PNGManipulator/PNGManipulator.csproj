@@ -22,7 +22,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\BinaryTools\BinaryTools\BinaryTools.csproj" />
+    <ProjectReference Include="..\BinaryTools\BinaryTools\BinaryTools.csproj" />
   </ItemGroup>
 
 </Project>
