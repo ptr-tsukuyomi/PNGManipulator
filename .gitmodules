@@ -1,0 +1,3 @@
+[submodule "BinaryTools"]
+	path = BinaryTools
+	url = https://github.com/ptr-tsukuyomi/BinaryTools.git
